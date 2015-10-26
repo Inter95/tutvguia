@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Tu TVGuia Repo">	   
         <<info>http://tutvguia.ga/addons.xml</info>
         <checksum>http://tutvguia.ga/addons.xml.md5</checksum>
-        <datadir>http://tutvguia.ga</datadir>
+        <datadir zip="true">http://tutvguia.ga</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositorio para Tu TVGuia</summary>
