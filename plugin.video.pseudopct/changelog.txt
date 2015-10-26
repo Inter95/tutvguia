@@ -1,0 +1,14 @@
+0.0.14 Fix duration
+0.0.13 Extendedinfo script for TV Show
+0.0.12 Trailer for movies using extendinfo script
+0.0.11 Extendedinfo script for movies
+0.0.10 Images
+0.0.9 Colors and UI
+0.0.8 Resolution flag
+0.0.7 Sort by episodes
+0.0.6 Settings
+0.0.5 TV Shows and Anime search
+0.0.4 Movie search
+0.0.3 Anime
+0.0.2 TV Shows
+0.0.1 Initial Release

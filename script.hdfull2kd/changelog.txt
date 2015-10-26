@@ -1,0 +1,51 @@
+Version 1.1.4
+script.module.mctools
+
+Version 1.1.3
+Boton explicito para el servicio de Series
+
+Version 1.1.2
+Mejora cuando se borra de los folders par defecto
+y paginado en Series
+
+Version 1.1.1
+Nuevo logo
+
+Version 1.1.0
+Version estable
+
+Version 1.0.16
+Selección individual o completa de películas y series (version correcta)
+
+Version 1.0.15
+Selección individual o completa de películas y series (incorrecta)
+
+Version 1.0.14
+Borra los archivos strm y limpia la libreria
+
+Version 1.0.13
+Actualización automática de series
+
+Version 1.0.12
+Corrección error en el servicio
+
+Version 1.0.11
+Segunda optimización, incremento de velocidad usando simplejson y mechanize
+
+Version 1.0.10
+Optimización de código
+
+Version 1.0.9
+Busqueda manual de series
+
+Version 1.0.8
+Corrección error en busqueda manual
+
+Version 1.0.7
+Traducción al español
+
+Version 0.1.0
+Beta version
+
+Version 0.0.1
+First version

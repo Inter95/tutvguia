@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="URL address (http://example.com):" type="text" id="url_address" default="http://eztvapi.re"/>
+        <setting label="Quality Tv Shows" type="lsep"/>
+        <setting label="480p" type="labelenum" id="TV_qua1" values="Accept File|Block File|Filter Off" default="Filter Off"/>
+        <setting label="720p" type="labelenum" id="TV_qua3" values="Accept File|Block File|Filter Off" default="Accept File"/>
+        <setting label="Notification Message" type="lsep"/>
+        <setting label="Time (miliseconds):" type="slider" id="time_noti" default="1500" range="0,125,2000" option="int" />
+    </category>
+</settings>

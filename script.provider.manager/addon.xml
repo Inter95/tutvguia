@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.provider.manager" name="Pulsar MC's [COLOR purple]Provider Manager[/COLOR]" version="3.0.5" provider-name="mancuniancol">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pulsar MC's Provider Manager</summary>
+		<description lang="en">It allows to change the configuration from all installed MC's providers at once</description>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://forum.xbmc.org/showthread.php?tid=204728</forum>
+		<disclaimer lang="en">-It only works with MC's providers</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>

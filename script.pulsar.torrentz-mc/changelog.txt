@@ -1,0 +1,8 @@
+Version 2.1.17
+Magnet uri instead of torrent
+
+Version 2.1.14
+Complete payload
+
+Version 2.1.7
+First version

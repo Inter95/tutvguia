@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pulsar.newpct" name="Pulsar Newpct Provider" version="0.0.3" provider-name="gomezvd">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+		<import addon="plugin.video.pulsar" version="0.3"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pulsar Newpct multilanguage Provider</summary>
+		<language></language>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.irishtvtwo" name="Irish Television XBMC Plugins" version="1.0.8" provider-name="IrishTv">
+	<extension point="xbmc.addon.repository" name="Irish Television XBMC Plugins">
+		<info compressed="false">https://the-gizmo.svn.beanstalkapp.com/itv/addons/addons.xml</info>
+		<checksum>https://the-gizmo.svn.beanstalkapp.com/itv/addons/addons.xml.md5</checksum>
+		<datadir zip="true">https://the-gizmo.svn.beanstalkapp.com/itv/addons</datadir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from Irish-TV Repository</summary>
+		<description>Irish Television video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

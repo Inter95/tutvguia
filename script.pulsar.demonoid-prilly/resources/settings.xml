@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting label="URL" type="text" id="url_address" default="http://demonoid.ph"/>
+        <setting label="Language for the Search" type="lsep"/>
+		<setting label="Language:" type="labelenum" id="lang" values="All|English|Arabic|Bulgarian|Chinese|Croatian|Czech|Danish|Dutch|Estonian|Farsi|Finnish|French|German|Greek|Hebrew|Hindi|Hungarian|Italian|Japanese|Korean|Kurdish|Malayalam|Norwegian|Polish|Portuguese|Romanian|Russian|Serbian|Slovenian|Spanish|Swedish|Thai|Turkish" default="All"/>
+		<setting label="Extra Information for the Search" type="lsep"/>
+		<setting label="Extra words for the query:" type="text" id="extra" default=""/>
+		<setting label="Keyword Filtering Movies" type="lsep"/>
+		<setting label="Allowed (separated by spaces only):" type="text" id="movie_key_allowed" default=""/>
+		<setting label="Denied (separated by spaces only):" type="text" id="movie_key_denied" default=""/>
+		<setting label="Keyword Filtering TV" type="lsep"/>
+		<setting label="Allowed (separated by spaces only):" type="text" id="TV_key_allowed" default=""/>
+		<setting label="Denied (separated by spaces only):" type="text" id="TV_key_denied" default=""/>
+        <setting label="Notification Message" type="lsep"/>
+        <setting label="Time (miliseconds):" type="slider" id="time_noti" default="1500" range="0,125,2000" option="int" />
+	</category>
+	<category label="Movies Quality">
+		<setting label="480p" type="bool" id="movie_q1" default="false"/>
+		<setting label="DVD" type="bool" id="movie_q2" default="false"/>
+		<setting label="HDTV" type="bool" id="movie_q3" default="true"/>
+		<setting label="720p" type="bool" id="movie_q4" default="true"/>
+		<setting label="1080p" type="bool" id="movie_q5" default="true"/>
+		<setting label="3D" type="bool" id="movie_q6" default="false"/>
+		<setting label="WEB" type="bool" id="movie_q7" default="true"/>
+		<setting label="Bluray" type="bool" id="movie_q8" default="true"/>
+		<setting label="BRRip" type="bool" id="movie_q9" default="true"/>
+		<setting label="HDRip" type="bool" id="movie_q10" default="true"/>		
+		<setting label="MicroHD" type="bool" id="movie_q11" default="true"/>
+		<setting label="x264" type="bool" id="movie_q12" default="true"/>
+		<setting label="AC3" type="bool" id="movie_q13" default="true"/>
+		<setting label="AAC" type="bool" id="movie_q14" default="true"/>
+		<setting label="HEVC" type="bool" id="movie_q15" default="true"/>
+		<setting label="CAM" type="bool" id="movie_q16" default="false"/>
+		<setting label="TeleSync" type="bool" id="movie_q17" default="false"/>
+		<setting label="DTS" type="bool" id="movie_q18" default="false"/>
+	</category>
+	<category label="TV Shows Quality">
+		<setting label="480p" type="bool" id="TV_q1" default="false"/>
+		<setting label="DVD" type="bool" id="TV_q2" default="false"/>
+		<setting label="HDTV" type="bool" id="TV_q3" default="true"/>
+		<setting label="720p" type="bool" id="TV_q4" default="true"/>
+		<setting label="1080p" type="bool" id="TV_q5" default="false"/>
+		<setting label="WEB" type="bool" id="TV_q7" default="true"/>
+		<setting label="Bluray" type="bool" id="TV_q8" default="true"/>
+		<setting label="BRRip" type="bool" id="TV_q9" default="true"/>
+		<setting label="HDRip" type="bool" id="TV_q10" default="true"/>		
+		<setting label="x264" type="bool" id="TV_q12" default="true"/>
+		<setting label="HEVC" type="bool" id="TV_q15" default="true"/>
+	</category>
+	<category label="Files to Download">
+		<setting label="Maximum Torrents to Send to Pulsar:" type="slider" id="max_magnets" default="10" range="0,1,20" option="int" />
+		<setting label="Limitation Size Movie Files" type="lsep"/>
+		<setting label="Minimum Size in GB (0 = Not Limit):" type="slider" id="movie_min_size" default="0" range="0,0.25,10" option="float" />
+		<setting label="Maximum Size in GB (10 = Not Limit):" type="slider" id="movie_max_size" default="10" range="0,0.25,10" option="float" />
+		<setting label="Limitation Size TV Files" type="lsep"/>
+		<setting label="Minimum Size in GB (0 = Not Limit):" type="slider" id="TV_min_size" default="0" range="0,0.25,10" option="float" />
+		<setting label="Maximum Size in GB (10 = Not Limit):" type="slider" id="TV_max_size" default="10" range="0,0.25,10" option="float" />
+	</category>
+</settings>

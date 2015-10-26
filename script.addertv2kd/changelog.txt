@@ -1,0 +1,2 @@
+Version 1.0.0
+Support Pulsar, XBMCtorrent, Kmediatorrent and torrenter V2

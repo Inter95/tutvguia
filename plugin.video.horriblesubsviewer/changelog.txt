@@ -1,0 +1,7 @@
+Version 1.1.0 offshore problem
+Version 0.0.6 itemList
+Version 0.0.5 new metahandler 2.9
+Version 0.0.4 textQuality
+Version 0.0.3 add releases
+Version 0.0.2 Warning text
+Version 0.0.1 First version

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.pseudopct" name="Pseudo-[COLOR FF2980B9]PopCornTime[/COLOR]" version="0.0.14" provider-name="mancuniancol">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+        <import addon="plugin.video.pulsar" version="0.6.1"/>
+        <import addon="script.extendedinfo" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Bad copy of PopCornTime powered by Pulsar</summary>
+		<description lang="en">Just sample to learn kodi addon developement.  It is based in PopCornTime application[CR]
+                This addon uses the PopcornTime API.[CR]
+                All the credits should be addressed to the PopCornTime Team.
+                This addon pretents to use educational.  Then, it is on your own risk to be used
+        </description>
+		<license>GNU General Public License, v2</license>
+		<language>en</language>
+		<forum></forum>
+		<source></source>
+		<email></email>
+	</extension>
+</addon>

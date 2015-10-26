@@ -1,0 +1,26 @@
+Version 2.1.7
+Error message
+
+Version 2.1.6
+Username and password support
+
+Version 2.1.5
+Sorted Code
+
+Version 2.0.5
+Fixbug
+
+Version 2.0.4
+Clean title
+
+Version 2.0.3
+Helix compatible
+
+Version 2.0.2
+Fixbug
+
+Version 2.0.1
+Update
+
+Version 2.0.0
+Ready for Pulsar 0.3

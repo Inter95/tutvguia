@@ -1,0 +1,8 @@
+Version 1.0.2
+Arreglo de paginas y errores al comienzo
+
+Version 1.0.1
+nuevo codigo de scraper
+
+Version 1.0.0
+Alpha version

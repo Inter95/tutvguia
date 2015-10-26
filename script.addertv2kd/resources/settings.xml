@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting label="URL address (http://example.com):" type="text" id="url_address" default="http://www.adder.tv"/>
+		<setting label="TV Shows Folder:" type="folder" id="show_folder" source="videos" option="writeable" default=""/>
+        <setting label="Plugin to use:" type="labelenum" id="plugin" values="Pulsar|KmediaTorrent|XBMCtorrent|Torrenter"/>
+		<setting label="Overwrite Existent .strm Files:" type="bool" id="overwrite" default="false"/>
+		<setting label="Notification Message" type="lsep"/>
+		<setting label="Time (miliseconds):" type="slider" id="time_noti" default="1500" range="0,125,2000" option="int" /> 
+	</category>
+	<category label="Service">
+		<setting label="Run as Service (check in every login):" type="bool" id="service" default="true"/>
+		<setting label="Persistent Update @ 8h:" type="bool" id="persistent" enable="eq(-1,true)" default="false"/>
+	</category>
+</settings>

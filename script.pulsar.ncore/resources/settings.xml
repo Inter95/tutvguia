@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+  <category label="General">
+    <setting label="URL" type="text" id="url_address" default="http://ncore.cc"/>
+  </category>
+
+  <category label="Movies Quality">
+    <setting label="Xvid/HU" type="bool" id="xvid_hun" default="false"/>
+    <setting label="Xvid/EN" type="bool" id="xvid" default="false"/>
+    <setting label="DVDR/HU" type="bool" id="dvd_hun" default="true"/>
+    <setting label="DVDR/EN" type="bool" id="dvd" default="true"/>
+    <setting label="DVD9/HU" type="bool" id="dvd9_hun" default="true"/>
+    <setting label="DVD9/EN" type="bool" id="dvd9" default="true"/>
+    <setting label="HD/HU" type="bool" id="hd_hun" default="true"/>
+    <setting label="HD/EN" type="bool" id="hd" default="true"/>
+  </category>
+
+  <category label="TV Shows Quality">
+    <setting label="Xvid/HU" type="bool" id="xvidser_hun" default="false"/>
+    <setting label="Xvid/EN" type="bool" id="xvidser" default="false"/>
+    <setting label="DVDR/HU" type="bool" id="dvdser_hun" default="true"/>
+    <setting label="DVDR/EN" type="bool" id="dvdser" default="true"/>
+    <setting label="HD/HU" type="bool" id="hdser_hun" default="true"/>
+    <setting label="HD/EN" type="bool" id="hdser" default="true"/>
+  </category>
+
+  <category label="Files to Download">
+    <setting label="Maximum Torrents to Send to Pulsar:" type="slider" id="max_magnets" default="10" range="0,1,20" option="int" />
+    <setting label="Limitation Size Movie Files" type="lsep"/>
+    <setting label="Minimum Size in GB (0 = Not Limit):" type="slider" id="movie_min_size" default="0" range="0,0.25,10" option="float" />
+    <setting label="Maximum Size in GB (10 = Not Limit):" type="slider" id="movie_max_size" default="10" range="0,0.25,10" option="float" />
+    <setting label="Limitation Size TV Files" type="lsep"/>
+    <setting label="Minimum Size in GB (0 = Not Limit):" type="slider" id="TV_min_size" default="0" range="0,0.25,10" option="float" />
+    <setting label="Maximum Size in GB (10 = Not Limit):" type="slider" id="TV_max_size" default="10" range="0,0.25,10" option="float" />
+  </category>
+
+</settings>

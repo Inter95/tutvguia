@@ -1,0 +1,15 @@
+Wersion 1.1.1 Adding help
+Version 1.1.0 offshore problem
+Version 1.0.5 itemlist
+Version 1.0.4 new metahandler 2.9
+Version 1.0.3 new images
+Version 1.0.2 textQuality
+Version 1.0.1 New logos
+Version 1.0.0 Official Release
+Version 0.0.7 Warning text
+Version 0.0.6 script.module.mctools
+Version 0.0.5 Search bug fix
+Version 0.0.4 Page Support
+Version 0.0.3 Manual Search
+Version 0.0.2 Credentials
+Version 0.0.1 First version

@@ -1,0 +1,4 @@
+Version 1.1.1 script.module.mctools
+Version 0.1.0  New libraries
+Version 0.3.4 Add rebuild all episodes and add for season
+Version 0.0.1 First version

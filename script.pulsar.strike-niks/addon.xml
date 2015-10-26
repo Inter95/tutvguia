@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pulsar.strike-niks" name="Pulsar Strike Provider" version="0.0.4" provider-name="niks">
+    <requires>
+        <import addon="xbmc.python" version="2.12.0"/>
+        <import addon="plugin.video.pulsar" version="0.3"/>
+    </requires>
+    <extension point="xbmc.python.script" library="main.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Pulsar Script Provider for Strike Search API</summary>
+		<description lang="en">This extension uses Strike Search API. Information about this API can be found on https://getstrike.net/api/. Thanks to Andrew Sampson!</description>
+        <language></language>
+        <platform>all</platform>
+    </extension>
+</addon>

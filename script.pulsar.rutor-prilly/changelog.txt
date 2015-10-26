@@ -1,0 +1,21 @@
+Version 1.0.5
+-Updated to pulsar 0.4
+
+Version 1.0.4
+-Added timeout
+-Adjusted provider name
+-Fixed html search tag
+
+Version 1.0.3
+-Updated <require> pulsar to REV-0.3.2
+
+Version 1.0.2
+-Adapted main.py to new search() - Now takes string
+
+Version 1.0.1
+-Bugfix name search string
+-New naming structure
+-Updated <require> pulsar to 0.3
+
+Version 1.0.0
+-Initial release

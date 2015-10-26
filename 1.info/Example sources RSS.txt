@@ -1,0 +1,45 @@
+
+example for kickass:
+https://kat.cr/movies/?rss=1
+https://kat.cr/usearch/walking%20dead%20category:tv/?rss=1
+In kickass any search that you make, you can take the url address and add ?rss=1 to the end.  If you want to have more results, you can add another rss feed, but with different number at the end. That is page number
+https://kat.cr/usearch/walking%20dead%20category:tv/?rss=2
+https://kat.ca/usearch/walking%20dead%20category:tv/?rss=3  etc.
+
+check the site:
+http://showrss.info/
+
+Example for rarbg:
+http://rarbg.com/rssdd.php?categories=14;15;16;17;21;22;42;44;45;46;47;48
+
+Example for torlock:
+http://www.torlock.com/movies/rss.xml
+http://www.torlock.com/television/rss.xml
+http://www.torlock.com/anime/rss.xml
+
+Example for torrentz
+check this page http://theadd.github.io/TorrentzRSS/
+
+Example for ThepirateBay
+http://tpb.camporez.com/
+
+example for torrentproject:
+http://torrentproject.se/?s=house+of+cards&out=rss
+
+for Anime check this link
+http://www.shanaproject.com/
+
+check the guide in 
+https://yts.to/rss-guide
+
+
+If you know more places. Let me know in the PM to add it here
+:)
+
+
+PS:/ Adult content for example: But you need to have a good scraper to get the info in movies,
+otherwise, you will find in video files
+
+http://www.btscene.cc/rss.php?type=cat&id=126
+https://kat.cr/usearch/porn/?rss=1
+http://rarbg.com/rssdd.php?categories=4

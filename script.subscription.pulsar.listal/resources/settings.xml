@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting label="Movie Folder:" type="folder" id="movie_folder" source="videos" option="writeable" default=""/>
+		<setting label="Show Folder:" type="folder" id="show_folder" source="videos" option="writeable" default=""/>
+		<setting label="Action:" type="labelenum" id="action" values="links|play"/>
+		<setting type="sep"/>
+		<setting label="Clear Database:" type="bool" id="clear_database" default="false"/>
+		<setting label="Remove All .strm Files:" type="bool" id="remove_strm" default="false"/>
+		<setting label="Type of Library" type="labelenum" id="type_library" values="Local|Global"/>
+		<setting label="Include Specials Episodes (Season 0):" type="bool" id="specials" default="false"/>
+		<setting type="sep"/>
+		<setting label="Detailed log" type="bool" id="detailed_log" default="false"/>
+		<setting label="Notification Message" type="lsep"/>
+		<setting label="Time (miliseconds):" type="slider" id="time_noti" default="1500" range="0,125,2000" option="int" />
+	</category>
+	<category label="Service">
+		<setting label="Run as Service (check in every login):" type="bool" id="service" default="false"/>
+		<setting label="Persistent Update @ 8h:" type="bool" id="persistent" default="false" enable="eq(-1,true)"/>
+        <setting type="sep"/>
+        <setting label="Start Delay (in seconds)" type="number" id="delay_time" default="20" enable="eq(-3,true)"/>
+        <setting type="sep"/>
+        <setting label="www.listal.com/list/" type="text" default="" enable="eq(-5,true)" id="list" />
+    </category>
+</settings>

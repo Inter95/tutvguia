@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.pulsar.newpct1-ys" name="Pulsar YS's NewPtc1 (Español) Provider" version="0.0.1" provider-name="ysilvela">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+        <import addon="plugin.video.pulsar" version="0.3.1"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pulsar NewPct1 (Español) Provider</summary>
+		<description lang="en">This provider allows to choose the quality of video torrent which will feed Pulsar.[CR]You need to config the add-on before using Pulsar[CR]It works with Movies and some TV Shows[CR]I won't keep your upload quota, you need to use another software.</description>
+		<summary lang="es">Proveedor Pulsar NewPct1 (Español)</summary>
+		<description lang="es">Este proveedor proporciona la capacidad de elegir la calidad del video torrent seleccionado.[CR]Tienes que configurar el add-on antes de usar Pulsar[CR]Funciona con peliculas y series[CR]No soy responsable de la información descargada.</description>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://forum.xbmc.org/showthread.php?tid=204728</forum>
+		<disclaimer lang="en">It only works with Pulsar 0.3.1![CR]It is just for educational purpose[CR]Check if it is illegal in your country to use.</disclaimer>
+		<disclaimer lang="es">Solo funciona con Pulsar 0.3.1![CR]De uso unicamente educativo[CR]Comprueba si es legal en tu pais antes de usar.</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>

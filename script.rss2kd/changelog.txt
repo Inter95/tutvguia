@@ -1,0 +1,29 @@
+Version 1.2.4
+fix regression initial []
+
+Version 1.2.3
+Fix database
+
+Version 1.2.2
+More formats titles
+
+Version 1.2.1
+YATP support
+
+Version 1.2.0
+feedparser library
+
+Version 1.1.2
+Unification code
+
+Version 1.1.1
+Remove Folders and Filtering
+
+Version 1.1.0
+Anime
+
+Version 0.1.0
+Beta Version
+
+Version 0.0.1
+First version

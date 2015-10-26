@@ -1,0 +1,24 @@
+Version 1.0.6
+-Updated to pulsar 0.4.0
+
+Version 1.0.5
+-Replaced translate function tmdb with demonoid search parameter lang
+-Updated regex for search and download (html changes demonoid)
+-Rewrite search_movies and search_tv adapted search
+
+Version 1.0.4
+-Added timeout
+-Adjusted provider name
+-Translator function
+
+Version 1.0.3
+-Updated <require> pulsar to REV-0.3.2
+
+Version 1.0.2
+-Adapted main.py to new search() - Now takes string
+
+Version 1.0.1
+-New naming structure
+
+Version 1.0.0
+-Initial release

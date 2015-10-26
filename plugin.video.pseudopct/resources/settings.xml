@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting label="URL Movies:" type="text" id="url_movies" default="http://yts.to"/>
+        <setting label="URL TV Shows:" type="text" id="url_tvshows" default="http://eztvapi.re"/>
+        <setting label="URL Anime:" type="text" id="url_anime" default="http://ptp.haruhichan.com"/>
+        <setting label="Plugin to use:" type="labelenum" id="plugin" values="Pulsar|KmediaTorrent|XBMCtorrent|Torrenter" default="Pulsar"/>
+    </category>
+    <category label="Movies">
+        <setting label="Genre:" type="labelenum" id="genre" values="All|Action|Adventure|Animation|Biography|Comedy|Crime|Documentary|Drama|Family|Fantasy|Film Noir|History|Horror|Music|Musical|Mystery|Romance|Sci Fi|Sport|Thriller|War|Western" default="All" />
+        <setting label="Minimum Rating:" type="slider" id="minimum_rating" default="0" range="0,1,9" option="int" />
+        <setting label="Sort by:" type="labelenum" id="sort_by" values="year|title|rating|peers|seeds|download_count|like_count|date_added" default="year"/>
+        <setting label="Order by:" type="labelenum" id="order_by" values="desc|asc" default="desc"/>
+	</category>
+</settings>

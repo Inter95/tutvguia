@@ -1,0 +1,13 @@
+V1.0.3
+-Graphics text
+-Added description for language
+
+V1.0.2
+-Updated repository id/name
+-Updated LICENSE.md
+
+V1.0.1
+-Updated description
+
+V1.0.0
+-Initial Release - Kodi Underground

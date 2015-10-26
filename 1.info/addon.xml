@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="1.info" name=" Please read this, first! (press enter)" version="0.0.1" provider-name="mancuniancol">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+        <import addon="plugin.video.pulsar" version="0.3.1"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pulsar Providers</summary>
+		<description lang="en">Pulsar Providers 
+
+What they are
+Pulsar Providers are specially crafted addons to function with the Pulsar Video Addon. They are seperately installed, normal Kodi addons, and thus can be installed/updated/distributed just like any other addon.
+The Pulsar Video Addon will NOT function without a Provider installed.
+
+Please do NOT contact steeve regarding providers connecting to illegal sources, for legal reasons he cannot comment on specific problems regarding illegal sources. He will however partake in general discussions regarding provider development.
+
+How to Install and Setup Pulsar/Providers
+Installing Pulsar and Providers is an easy process to do so Follow this Guide by Alex(edge06) - http://www.homemediatech.net/how-to-setu...native/789
+
+How to Write your own Provider(s)
+Writing Plugins for Kodi can be a rewarding experience, you get to build something and you get to contribute back to an amazing community.
+If you are interested in writing your own provider(s), Follow this Guide by Alex(edge06) - http://www.homemediatech.net/how-to-guid...mckodi/959
+
+Sample Pulsar provider: https://github.com/steeve/script.pulsar.dummy
+
+Where to Download Providers
+Providers can be downloaded from the Unofficial Pulsar Repo or Kodi Underground Repo. Both repositories are frequently updated and maintained. Installing both repositories will ensure you always have the latest version of provider(s).
+
+Unofficial Pulsar Repository (1.0.1) by iCanuck - Download Link
+
+Kodi Underground (1.0.2) by prilly - Download Link
+
+Providers Hosted on Repos
+There are several duplicate providers on the repositories, these are providers with different authors. Each duplicate provider may have different quality, file size, and language options. To change these settings see 'configure provider settings' below. It is the user's preference which providers they choose to use.
+
+Current Providers List - Link
+
+FAQ
+How to report provider bugs?
+Put your xbmc.log on pastebin and post it in this thread, the post must be directed to the author of the provider in question.
+If you don't know how to do this, just follow the guide at: http://kodi.wiki/view/Log_file/Easy
+Please do NOT direct provider related questions to steeve.
+
+How many providers can I have enabled at one time?
+Depending on your internet service provider's speed you may enable up to approximately 6 providers at once. If you enable too many providers at once this will cause Pulsar to timeout and you will receive a notification that the 'script has failed'.
+
+How do I Enable/Disable Providers?
+Providers can be enabled or disabled the same as any other Kodi addon.
+Settings -> Add-ons -> Get Add-ons -> Pulsar Unofficial Repo -> the provider title -> Enable/Disable
+
+How do I configure provider settings?
+Settings -> Add-ons -> Enabled add-ons -> Programs -> the provider title -> Configure
+or
+Settings -> Add-ons -> Get Add-ons -> Pulsar Unofficial Repo -> the provider title -> Configure
+
+The provider's site is blocked, what can I do?
+Some users in certain countries may have the provider's site blocked. To get around this you must find a proxy/mirror of the original site.
+1) Search web for proxy/mirror url
+2) Settings -> Add-ons -> Enabled add-ons -> Programs -> the provider title -> Configure
+3) Replace original url with proxy url (eg. replaced hxxp://sitename.se with hxxp://sitenameproxy.ws)
+
+The repositories are blank or don't show the latest version of provider...
+You must 'Force Refresh' the Repository in question.
+If you don't know how to do this, just follow the guide at: http://kodi.wiki/view/Add-on_manager#Force_refresh
+
+How can I get my provider hosted on repos?
+Contact both iCanuck and prilly via private message.
+
+How can I use a previous version of provider after it auto updates?
+1) Uninstall provider
+2) Turn off auto updates within the addon manager.
+If you don't know how to do this, just follow the guide at: http://kodi.wiki/view/Add-on_manager#Updating
+3) Download and manual install the provider addon zip file.
+Provider Archive - Link</description>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://forum.xbmc.org/showthread.php?tid=204728</forum>
+		<disclaimer lang="en">It only works with Pulsar 0.3.1![CR]It is just for educational purpose[CR]Check if it is illegal in your country to use.</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>

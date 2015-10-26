@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+        <setting label="Dirección URL (http://example.com):" type="text" id="urlAddress" default="http://hdfull.tv"/>
+        <setting label="Directorio de Películas:" type="folder" id="movieFolder" source="videos" option="writeable" default=""/>
+		<setting label="Directorio de TV Series:" type="folder" id="showFolder" source="videos" option="writeable" default=""/>
+		<setting label="Sobreescribir los archivos .strm existentes:" type="bool" id="overwrite" default="false"/>
+		<setting label="Mensaje de Notificación" type="lsep"/>
+		<setting label="Tiempo (milisegundos):" type="slider" id="timeNotification" default="1.5" range="0,0.125,2" option="float" />
+	</category>
+	<category label="Servicio">
+		<setting label="Correr como un Servicio (verificación en cada arranque de Kodi):" type="bool" id="service" default="true"/>
+		<setting label="Actualización contínua @ 8h:" type="bool" id="persistent" enable="eq(-1,true)" default="false"/>
+		<setting label="Películas Estreno:" type="bool" id="peliculasEstreno" default="false" enable="eq(-2,true)"/>
+		<setting label="Películas Actualizadas:" type="bool" id="peliculasActualizadas" default="false" enable="eq(-3,true)"/>
+		<setting label="Todas Películas:" type="bool" id="todasPeliculas" default="false" enable="eq(-4,true)"/>
+		<setting label="Paginas a bajar" type="slider" id="pages" default="1" range="1,1,10" option="int" enable="eq(-1,true)+eq(-5,true)" subsetting="true"/>
+		<setting label="Series:" type="bool" id="series" default="false" enable="eq(-6,true)"/>
+	</category>
+</settings>

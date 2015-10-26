@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="URL address (http://example.com):" type="text" id="urlAddress" default="https://eztv.ag"/>
+        <setting label="Plugin to use:" type="labelenum" id="plugin"
+                 values="Pulsar|KmediaTorrent|XBMCtorrent|Torrenter|Yatp" default="Pulsar"/>
+        <setting label="Overwrite Existent .strm Files:" type="bool" id="overwrite" default="false"/>
+        <setting label="Notification Message" type="lsep"/>
+        <setting label="Time (seconds):" type="slider" id="timeNotification" default="1.5" range="0,0.125,2"
+                 option="float"/>
+    </category>
+    <category label="Service">
+        <setting label="Run as Service (check in every login):" type="bool" id="service" default="true"/>
+        <setting label="Persistent Update @ 8h:" type="bool" id="persistent" enable="eq(-1,true)" default="false"/>
+        <setting label="Quality:" type="labelenum" id="quality" enable="eq(-2,true)"
+                 values="HDTV:720p:1080p|1080p:720p:HDTV|720p:1080p|1080p:720p|HDTV:720p|720p:HDTV|HDTV|720p|1080p"/>
+    </category>
+    <category label="Download Settings">
+        <setting label="Number Pages:" type="slider" id="number" default="5" range="0,1,20" option="int"/>
+        <setting label="Show Folder:" type="folder" id="showFolder" source="videos" option="writeable" default=""/>
+    </category>
+</settings>

@@ -1,0 +1,37 @@
+Version 2.1.10
+FixBug
+
+Version 2.1.9
+New page sort
+
+Version 2.1.8
+New proxy
+
+Version 2.1.7
+
+Version 2.1.5
+Sorted Code
+
+Version 2.1.1
+Fixbug
+
+Version 2.1.0
+Optimisation
+
+Version 2.0.5
+New filtering
+
+Version 2.0.4
+Fixbug
+
+Version 2.0.3
+Clean title
+
+Version 2.0.2
+Fixbug
+
+Version 2.0.1
+Updated multilanguage
+
+Version 2.0.0
+Pulsar 3.0 ready

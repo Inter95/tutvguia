@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <!--<category label="Login">
+        <setting label="Username:" type="text"   id="username" default=""/>
+        <setting label="Password:" type="text"   id="password" option="hidden"  enable="!eq(-1,)" default=""/>
+    </category>--->
+	<category label="General">
+		<setting label="URL address (http://example.com):" type="text" id="url_address" default="http://torrentapi.org/pubapi_v2.php"/>
+		<setting label="Language for the Search" type="lsep"/>
+		<setting label="Language:" type="labelenum" id="language" values="en|de|es|fr|it|pt" default="en"/>
+		<setting label="Extra Keywords to send in the URL" type="lsep"/>
+		<setting label="Extra Keywords:" type="text" id="extra" default=""/>
+		<setting label="Notification Message" type="lsep"/>
+		<setting label="Time (miliseconds):" type="slider" id="time_noti" default="1500" range="0,125,2000" option="int" />
+	</category>
+	<category label="Movies Filters">
+		<setting label="Advance Setup (for 'AND' use space, for 'OR' use comma)" type="lsep"/>
+		<setting label="Accept File with:" type="text" id="movie_key_allowed" default=""/>
+		<setting label="Block File with:" type="text" id="movie_key_denied" default=""/>
+		<setting label="Easy Setup Keywords after the query" type="lsep"/>
+		<setting label="480p" type="labelenum" id="movie_qua1" values="Accept File|Block File|Filter Off" default="Filter Off"/>
+		<setting label="HDTV" type="labelenum" id="movie_qua2" values="Accept File|Block File|Filter Off" default="Accept File"/>
+		<setting label="720p" type="labelenum" id="movie_qua3" values="Accept File|Block File|Filter Off" default="Accept File"/>
+		<setting label="1080p" type="labelenum" id="movie_qua4" values="Accept File|Block File|Filter Off" default="Accept File"/>
+		<setting label="3D" type="labelenum" id="movie_qua5" values="Accept File|Block File|Filter Off" default="Block File"/>
+		<setting label="CAM" type="labelenum" id="movie_qua6" values="Accept File|Block File|Filter Off" default="Block File"/>
+		<setting label="TeleSync" type="labelenum" id="movie_qua7" values="Accept File|Block File|Filter Off" default="Block File"/>
+    	<setting label="Trailer" type="labelenum" id="movie_qua8" values="Accept File|Block File|Filter Off" default="Block File"/>
+	</category>
+	<category label="TV Filters">
+		<setting label="Advance Setup (for 'AND' use space, for 'OR' use comma)" type="lsep"/>
+		<setting label="Accept File with:" type="text" id="TV_key_allowed" default=""/>
+		<setting label="Block File with:" type="text" id="TV_key_denied" default=""/>
+		<setting label="Easy Setup Keywords after the query" type="lsep"/>
+		<setting label="480p" type="labelenum" id="TV_qua1" values="Accept File|Block File|Filter Off" default="Filter Off"/>
+		<setting label="HDTV" type="labelenum" id="TV_qua2" values="Accept File|Block File|Filter Off" default="Accept File"/>
+		<setting label="720p" type="labelenum" id="TV_qua3" values="Accept File|Block File|Filter Off" default="Accept File"/>
+		<setting label="1080p" type="labelenum" id="TV_qua4" values="Accept File|Block File|Filter Off" default="Accept File"/>
+	</category>
+	<category label="Download Settings">
+		<setting label="Maximum Torrents to Send to Pulsar:" type="slider" id="max_magnets" default="10" range="0,1,20" option="int" />
+		<setting label="Limitation Size Movie Files" type="lsep"/>
+		<setting label="Minimum Size in GB (0 = Filter OFF):" type="slider" id="movie_min_size" default="0" range="0,0.25,10" option="float" />
+		<setting label="Maximum Size in GB (10 = Filter OFF):" type="slider" id="movie_max_size" default="10" range="0,0.25,10" option="float" />
+		<setting label="Limitation Size TV Files" type="lsep"/>
+		<setting label="Minimum Size in GB (0 = Filter OFF):" type="slider" id="TV_min_size" default="0" range="0,0.25,10" option="float" />
+		<setting label="Maximum Size in GB (10 = Filter OFF):" type="slider" id="TV_max_size" default="10" range="0,0.25,10" option="float" />
+	</category>
+</settings>

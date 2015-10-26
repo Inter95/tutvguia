@@ -1,0 +1,6 @@
+Version 0.5.2 script.module.mctools
+Version 0.5.1 lib folder
+Version 0.5.0 language support, nfo files and better scraper
+
+Version 0.0.1
+First version

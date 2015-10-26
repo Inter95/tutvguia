@@ -1,0 +1,125 @@
+﻿[size=medium][b]Updated Unofficial Pulsar Repo[/b][/size] - [url=https://sourceforge.net/projects/icanuckxbmcrepo/files/repository.pulsarunofficial-1.0.1.zip/download][size=small][b]Download Link[/b][/size][/url]
+***********************************
+[b]• Current Providers on Repo •  [color=#FF0000]Pulsar 0.3.1 Compatible[/color][/b]
+ArenaBG-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+btdigg (0.5.2) - gomezvd - [color=#FF0000]Added[/color]
+Cpasbien-MC (2.00) (French) - mancuniancol - [color=#FF0000]Added[/color]
+Demonoid-prilly (1.0.2) - prilly - [color=#FF0000]Added[/color]
+Dixatope-MC (2.0.0) (Spanish) - mancuniancol - [color=#FF0000]Added[/color]  
+ExtraTorrent-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+EZTV-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+H33T-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+KickAss-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+KickAss Anime-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+MagnetDL-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+NewPct (0.0.2) - gomezvd - [color=#FF0000]Added[/color]
+Nyaa-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+Rutor (1.0.2) - prilly - [color=#FF0000]Added[/color]
+TankaFetast-MC (2.0.0) (Swedish) - mancuniancol - [color=#FF0000]Added[/color]
+ThePirateBay-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color] 
+TorrentHound-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+TPB Anime-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+Yify-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+[b]• Current Providers on Repo • [color=#FF0000]Pulsar 0.2.0 Compatible[/color][/b]
+ArenaBG (1.98) - mancuniancol
+btdigg (0.5.1) - gomezvd
+CPasBien (0.2.0) (French) - Sheppy
+Cpasbien2 (1.99) (French) - mancuniancol 
+Demonoid (1.0.0) - prilly
+Dixatope (1.98) (Spanish) - mancuniancol 
+ExtraTorrent (1.98) - mancuniancol
+EZTV-platbr (0.0.9b) - platbr - [color=#FF0000]Updated[/color]
+EZTV-api (1.98) - mancuniancol
+H33T (1.98) - mancuniancol 
+KickAssTorrents (0.2) - cpkiller
+KickAssTorrents (0.2.0) (MultiLang.) - gomezvd
+KickAss2 (1.98) - mancuniancol 
+KickAss Anime (1.98) - mancuniancol
+Newpct (0.0.1) (Spanish) - gomezvd
+Nyaa (1.98) - mancuniancol 
+MagnetDL (1.98) - mancuniancol
+OMGtorrent (0.2.0) (French) - Sheppy 
+ThePirateBay (1.98) formerly TPB2 - mancuniancol 
+PirateBay (1.1.1) - GabbeV
+Rutor (1.0.0) - prilly 
+TankaFetast (0.0.2) (Swedish) - fallos
+TankaFetast2 (1.98) (Swedish) - mancuniancol
+TPB (0.2.1) - braa
+TPB Anime (1.98) - mancuniancol 
+Yify-platbr (0.0.4b) - platbr - [color=#FF0000]Updated[/color]
+YIFY2 (1.98) - mancuniancol
+[b]• Video Addons on Repo •[/b]
+Pulsar (0.3.1) - steeve - [color=#FF0000]Updated[/color]
+Magnetplayer (1.0.1) - Doc Shadrach
+XBMCtorrent (0.6.4) - steeve 
+XBMCtorrent to Pulsar (1.0.1) - Doc Shadrach
+[b]• Mirror Repo •[/b] 
+Kodi Underground - prilly
+*******************************************
+I have created an [b]Unofficial Pulsar Repo[/b] RssFeed with Provider Updates.
+
+To View it Add the url to your RSSfeeds.xml in the userdata folder.
+
+https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/repository.pulsarunofficial/RSSfeed.xml
+
+[url=http://kodi.wiki/view/RssFeeds.xml]RssFeeds.xml - Wiki[/url]
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+NEW
+
+
+
+
+
+
+
+[size=medium][b]Updated Unofficial Pulsar Repo[/b][/size] - [url=https://sourceforge.net/projects/icanuckxbmcrepo/files/repository.pulsarunofficial-1.0.1.zip/download][size=small][b]Download Link[/b][/size][/url]
+***********************************
+[b]• Current Providers on Repo •  [color=#FF0000]Pulsar 0.3.1 Compatible[/color][/b]
+ArenaBG-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+btdigg (0.5.2) - gomezvd - [color=#FF0000]Added[/color]
+Cpasbien-MC (2.00) (French) - mancuniancol - [color=#FF0000]Added[/color]
+Demonoid-prilly (1.0.2) - prilly - [color=#FF0000]Added[/color]
+Dixatope-MC (2.0.0) (Spanish) - mancuniancol - [color=#FF0000]Added[/color]  
+ExtraTorrent-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+EZTV-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+H33T-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+KickAss-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+KickAss Anime-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+MagnetDL-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+NewPct (0.0.2) - gomezvd - [color=#FF0000]Added[/color]
+Nyaa-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+Rutor (1.0.2) - prilly - [color=#FF0000]Added[/color]
+TankaFetast-MC (2.0.0) (Swedish) - mancuniancol - [color=#FF0000]Added[/color]
+ThePirateBay-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color] 
+TorrentHound-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+TPB Anime-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+Yify-MC (2.0.0) - mancuniancol - [color=#FF0000]Added[/color]
+[b]• Video Addons on Repo •[/b]
+Pulsar (0.3.1) - steeve - [color=#FF0000]Updated[/color]
+Magnetplayer (1.0.1) - Doc Shadrach
+XBMCtorrent (0.6.4) - steeve 
+XBMCtorrent to Pulsar (1.0.1) - Doc Shadrach
+[b]• Mirror Repo •[/b] 
+Kodi Underground - prilly
+*******************************************
+I have created an [b]Unofficial Pulsar Repo[/b] RssFeed with Provider Updates.
+
+To View it Add the url to your RSSfeeds.xml in the userdata folder.
+
+https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/repository.pulsarunofficial/RSSfeed.xml
+
+[url=http://kodi.wiki/view/RssFeeds.xml]RssFeeds.xml - Wiki[/url]
+
+****************************************************************************************
+[b]I have temporarily removed all of Providers that are NOT compatible with Pulsar 0.3.1 [/b]

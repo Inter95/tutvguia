@@ -1,0 +1,21 @@
+# 0.4.0
+- Correction URI retournee suite a refonte du site
+- Optimisation REGEX de filtrage pour cibler exclusivement films ou series + recuperer le nom du torrent
+- Ajout du nom du torrent au payload, pour passer le nouveau filtre des episodes
+- Hack manuel pour certaines series dont le nom FR n'est pas reconnu sur CPB
+- Compatibilité Pulsar 0.4.x
+
+# 0.3.0
+- Compatibilite Pulsar 0.3.x
+- Changement du parsing suite a refonte du site
+- Optimisations
+
+# 0.2.1
+- Ajout d'une icone
+- Utilise les titres Francais directement depuis TMDB
+
+# 0.2.0
+- Refonte du code pour s'adapter a Pulsar 0.2
+
+# 0.0.1 :
+- Version initiale

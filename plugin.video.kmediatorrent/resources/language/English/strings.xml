@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Plugin name -->
+	<string id="30000">KMediaTorrent</string>
+	<string id="30140">Subtitles</string>
+	<string id="30141">Subtitles could be unavailable. In that case you can use your own subtitles</string>
+	<string id="30142">If the subtitles are out of sync you can offset them in your audio/video settings.</string>
+	<string id="30143">Enable subtitles</string>
+	<string id="30144">Primary Language</string>
+	<string id="30145">Secondary Language</string>  
+</strings>

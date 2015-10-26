@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.tvguia.mod" name="tvguia mod" version="0.0.1" provider-name="mancuniancol">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+        <import addon="plugin.video.pulsar" version="0.3.1"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TVguia mod</summary>
+		<description lang="en">This script makes some modifications to work with tvguia</description>
+        <description lang="en">Este script hace modificaciones en el sistema para trabajar con tvguia</description>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://tutvguia.com/</forum>
+		<disclaimer lang="en">just for educational use</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>

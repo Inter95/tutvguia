@@ -1,0 +1,30 @@
+Version 2.1.7
+Error message
+
+Version 2.1.5
+Sorted Code
+
+Version 2.1.1
+Fixbug
+
+Version 2.1.0
+Multilanguages and new filtering
+
+Version 2.0.5
+Fixbug
+
+Version 2.0.4
+Fix name tv shows
+
+Version 2.0.3
+Clean title
+
+Version 2.0.2
+Fixbug
+
+Version 2.0.1
+Update
+
+Version 2.0.0
+Pulsar 0.3 ready
+

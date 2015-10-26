@@ -1,0 +1,66 @@
+[size=x-large][b]Pulsar Providers [/b][/size]
+
+[size=large][b]What they are[/b][/size]
+Pulsar Providers are specially crafted addons to function with the [url=http://forum.kodi.tv/showthread.php?tid=200957][b]Pulsar Video Addon[/b][/url]. They are seperately installed, normal Kodi addons, and thus can be installed/updated/distributed just like any other addon. 
+[color=#FF0000]The Pulsar Video Addon will [b]NOT[/b] function without a Provider installed.[/color]
+
+[color=#FF0000]Please do [b]NOT[/b] contact steeve regarding providers connecting to illegal sources, for legal reasons he cannot comment on specific problems regarding illegal sources. He will however partake in general discussions regarding provider development.[/color]
+
+[size=large][b]How to Install & Setup Pulsar/Providers[/b][/size]
+Installing Pulsar & Providers is an easy process to do so Follow this Guide by Alex(edge06) - [url]http://www.homemediatech.net/how-to-setup-and-install-pulsar-on-xbmckodi-an-xbmctorrent-alternative/789[/url]
+
+[size=large][b]How to Write your own Provider(s)[/b][/size]
+Writing Plugins for Kodi can be a rewarding experience, you get to build something and you get to contribute back to an amazing community.
+If you are interested in writing your own provider(s), Follow this Guide by Alex(edge06) - [url]http://www.homemediatech.net/how-to-guide-for-writing-pulsar-provider-add-ons-for-xbmckodi/959[/url]
+
+Sample Pulsar provider: [url]https://github.com/steeve/script.pulsar.dummy[/url]
+
+[size=large][b]Where to Download Providers[/b][/size]
+Providers can be downloaded from the [b]Unofficial Pulsar Repo [/b]or [b]Kodi Underground Repo[/b]. Both repositories are frequently updated and maintained. Installing both repositories will ensure you always have the latest version of provider(s).
+
+[b]Unofficial Pulsar Repository[/b] (1.0.1) by [url=http://forum.kodi.tv/member.php?action=profile&uid=210012]iCanuck[/url] - [url=https://sourceforge.net/projects/icanuckxbmcrepo/files/repository.pulsarunofficial-1.0.1.zip/download][b]Download Link[/b][/url]
+
+[b]Kodi Underground[/b] (1.0.2) by [url=http://forum.kodi.tv/member.php?action=profile&uid=118656]prilly[/url] - [url=http://kodi.speedbox.me/filedetails.php?repname=kodi_repo&path=%2Ftrunk%2Frepository.kodiunderground%2Frepository.kodiunderground-1.0.2.zip][b]Download Link[/b][/url]
+
+[size=large][b]Providers Hosted on Repos[/b][/size]
+There are several duplicate providers on the repositories, these are providers with different authors. Each duplicate provider may have different quality, file size, and language options. To change these settings see [i]'configure provider settings' [/i]below. It is the user's preference which providers they choose to use.
+
+[b]Current Providers List[/b] - [url=https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/repository.pulsarunofficial/providers_list.txt][b]Link[/b][/url]
+
+[size=large][b]FAQ[/b][/size]
+[b]How to report provider bugs?[/b]
+Put your xbmc.log on pastebin and post it in this thread, the post must be directed to the author of the provider in question.
+If you don't know how to do this, just follow the guide at: http://kodi.wiki/view/Log_file/Easy
+[color=#FF0000]Please do [b]NOT[/b] direct provider related questions to steeve.[/color]
+
+[b]How many providers can I have enabled at one time?[/b]
+Depending on your internet service provider's speed you may enable up to approximately 6 providers at once. If you enable [b]too many[/b] providers at once this will cause Pulsar to timeout and you will receive a notification that the [b][i]'script has failed'[/i][/b].
+
+[b]How do I Enable/Disable Providers?[/b]
+Providers can be enabled or disabled the same as any other Kodi addon.
+Settings -> Add-ons -> Get Add-ons -> Pulsar Unofficial Repo -> the provider title -> Enable/Disable
+
+[b]How do I configure provider settings?[/b]
+Settings -> Add-ons -> Enabled add-ons -> Programs -> the provider title -> Configure
+or
+Settings -> Add-ons -> Get Add-ons -> Pulsar Unofficial Repo -> the provider title -> Configure
+
+[b]The provider's site is blocked, what can I do?[/b]
+Some users in certain countries may have the provider's site blocked. To get around this you must find a proxy/mirror of the original site.
+1) Search web for proxy/mirror url 
+2) Settings -> Add-ons -> Enabled add-ons -> Programs -> the provider title -> Configure
+3) Replace original url with proxy url (eg. replaced hxxp://sitename.se with hxxp://sitenameproxy.ws)
+
+[b]The repositories are blank or don't show the latest version of provider...[/b]
+You must [i][b]'Force Refresh'[/b][/i] the Repository in question.
+If you don't know how to do this, just follow the guide at: [url]http://kodi.wiki/view/Add-on_manager#Force_refresh[/url]
+
+[b]How can I get my provider hosted on repos?[/b]
+Contact both [url=http://forum.kodi.tv/member.php?action=profile&uid=210012]iCanuck[/url] & [url=http://forum.kodi.tv/member.php?action=profile&uid=118656]prilly[/url] via private message.
+
+[b]How can I use a previous version of provider after it auto updates?[/b]
+1) Uninstall provider
+2) Turn off auto updates within the addon manager.
+If you don't know how to do this, just follow the guide at: [url]http://kodi.wiki/view/Add-on_manager#Updating[/url] 
+3) Download and manual install the provider addon zip file.
+[b]Provider Archive [/b]- [url=https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/archive/providers/][b]Link[/b][/url]

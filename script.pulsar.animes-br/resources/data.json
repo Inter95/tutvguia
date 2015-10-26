@@ -1,0 +1,25 @@
+{
+    "animes":[
+        {
+            "desc" : "Naruto Shippuuden",
+            "tvdb_id":79824,
+            "search_string":"narutoPROJECT Shippuuden %EPISODE%",
+            "tracker_engine":"btdigg_api",
+            "base_url":"http://api.btdigg.org/api/public-8e9a50f8335b964f/s01?q="
+        },
+        {
+            "desc" : "One Piece",
+            "tvdb_id":81797,
+            "search_string":"piecePROJECT %EPISODE%",
+            "tracker_engine":"btdigg_api",
+            "base_url":"http://api.btdigg.org/api/public-8e9a50f8335b964f/s01?q="
+        },
+        {
+            "desc" : "Hunter x Hunter Remake",
+            "tvdb_id":252322,
+            "search_string":"HXP-E_%EPISODE%",
+            "tracker_engine":"btdigg_api",
+            "base_url":"http://api.btdigg.org/api/public-8e9a50f8335b964f/s01?q="
+        }
+    ]
+}

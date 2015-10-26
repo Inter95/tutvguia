@@ -1,0 +1,21 @@
+Version 1.1.2 Force Shows and Anime
+Version 1.1.1 infoStream
+Version 1.1.0 offshore problem
+Version 0.0.18 improvement in InfoLabels and Microhd format
+Version 0.0.17 update script.module.metahandler 2.9
+Version 0.0.16 fix http in getLinks
+version 0.0.15 adding more keywords
+version 0.0.14 textQuality
+version 0.0.13 removing strm fix
+Version 0.0.12 Subscription title fix
+Version 0.0.11 textViewer
+Version 0.0.10 activation filters
+Version 0.0.9 changing rest for original name
+Version 0.0.8 Additional scraper words
+Version 0.0.7 Fix duration
+Version 0.0.6 more scraper words
+Version 0.0.5 message fix
+Version 0.0.4 some fixes
+Version 0.0.3 More exceptions new cleanTitle routine
+Version 0.0.2 change name addon for addon1 to avoid conflict
+Version 0.0.1 Initial

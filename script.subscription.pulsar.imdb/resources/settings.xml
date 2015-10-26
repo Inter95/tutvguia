@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="32050">
+		<setting label="32051" type="folder" id="movieFolder" source="videos" option="writeable" default=""/>
+		<setting label="32052" type="folder" id="showFolder" source="videos" option="writeable" default=""/>
+		<setting label="32080" type="labelenum" id="action" values="links|play"/>
+		<setting type="sep"/>
+		<setting label="32081" type="bool" id="clearDatabase" default="false"/>
+		<setting label="32082" type="bool" id="removeStrm" default="false"/>
+		<setting label="32083" type="labelenum" id="typeLibrary" values="Local|Global"/>
+		<setting label="32084" type="bool" id="specials" default="false"/>
+		<setting type="sep"/>
+		<setting label="32085" type="bool" id="detailedLog" default="false"/>
+		<setting label="32057" type="lsep"/>
+		<setting label="32058" type="slider" id="timeNotification" default="1.5" range="0,0.125,2" option="float" />
+	</category>
+	<category label="32059">
+		<setting label="32060" type="bool" id="service" default="false"/>
+		<setting label="32061" type="bool" id="persistent" default="false" enable="eq(-1,true)"/>
+        <setting type="sep"/>
+        <setting label="32086" type="number" id="delayTime" default="30" enable="eq(-3,true)"/>
+		<setting type="sep"/>
+		<setting label="32110" type="bool" id="watchlist" enable="eq(-5,true)" default="false"/>
+		<setting label="User's Watchlist(ex:ur0000)" type="text" default="" enable="eq(-1,true)+eq(-6,true)" id="user" />
+		<setting label="Sync list IMDB:" type="bool" id="imdblist" enable="eq(-7,true)" default="false"/>
+		<setting label="List(ex:ls0000)" type="text" default="" enable="eq(-1,true)+eq(-8,true)" id="list" />
+		</category>
+</settings>

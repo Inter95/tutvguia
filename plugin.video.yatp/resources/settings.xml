@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <category label="32029">
+        <setting id="download_dir" type="folder"
+                 label="32030" default="" />
+        <setting id="dl_speed_limit" type="number"
+                 label="32047" default="0" />
+        <setting id="ul_speed_limit" type="number"
+                 label="32048" default="0" />
+        <setting id="enable_limits" type="bool"
+                 label="32064" default="false"/>
+        <setting id="ratio_limit" type="labelenum"
+                 label="32032" enable="eq(-1,true)" values="0|1|1.5|2|3|4|5" default="1.5" />
+        <setting id="time_limit" type="number"
+                 label="32033" enable="eq(-2,true)" default="0" />
+        <setting id="expired_action" type="enum"
+                 label="32034" enable="eq(-3,true)" lvalues="32045|32046" default="32045" />
+        <setting id="delete_expired_files" type="bool"
+                 label="32035" enable="eq(-4,true)+eq(-1,1)" default="false"/>
+    </category>
+    <category label="32061">
+        <setting id="buffer_duration" type="slider"
+                 label="32031" default="20" range="5,60"/>
+        <setting id="default_buffer_size" type="slider"
+                 label="32059" default="20" range="5,100"/>
+        <setting id="sliding_window_length" type="number"
+                 label="32060" default="50"/>
+    </category>
+    <category label="32036">
+        <setting id="pass_protect" type="bool"
+                 label="32037" default="false" />
+        <setting id="web_login" type="text"
+                 label="32038" default="yatp" enable="eq(-1,true)" />
+        <setting id="web_pass" type="text"
+                 label="32039" default="yatp" option="hidden" enable="eq(-2,true)" />
+    </category>
+    <category label="32040">
+        <setting id="start_server" type="bool"
+                 label="32054" default="true" />
+        <setting id="server_port" type="number"
+                 label="32042" default="8668"/>
+        <setting id="torrent_port" type="number"
+                 label="32044" default="25335" />
+        <setting id="persistent" type="bool"
+                 label="32063" default="true" />
+        <setting id="enable_encryption" type="bool"
+                 label="32053" default="true" />
+        <setting id="connections_limit" type="number"
+                 label="32055" default="200"/>
+        <setting id="half_open_limit" type="number"
+                 label="32056" default="-1"/>
+        <setting id="unchoke_slots_limit" type="number"
+                 label="32057" default="8"/>
+        <setting id="connection_speed" type="number"
+                 label="32058" default="6"/>
+        <setting id="file_pool_size" type="number"
+                 label="32062" default="40"/>
+    </category>
+</settings>

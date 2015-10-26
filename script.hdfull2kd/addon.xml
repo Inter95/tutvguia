@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.hdfull2kd" name="[COLOR FFC0392B]HDFULL[/COLOR]2KD - TVGUIA" version="1.1.4" provider-name="mancuniancol">
+	<requires>
+		<import addon="xbmc.python" version="2.12.0"/>
+		<import addon="plugin.video.pelisalacarta" version="3.9.99"/>
+		<import addon="script.module.mctools" optional="false"/>
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="login">
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TV Guia - hdfull2KD</summary>
+		<description lang="en">This script creates .strm files from hdfull.tv to be played by pelisalacarta from the local library</description>
+        <description lang="sp">Este script crea archivos .strm a partir de hdfull.tv para ser reproducidos por pelisalacarta desde la libreria local</description>
+		<language></language>
+		<platform>all</platform>
+		<forum>http://forum.xbmc.org/showthread.php?tid=204728</forum>
+		<disclaimer lang="en">It is just for educational purpose[CR]Check if it is illegal in your country to use.</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>

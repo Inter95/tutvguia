@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.hachoir"
+       name="Hachoir"
+       version="1.3.3"
+       provider-name="DiMartino">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Hachoir is a Python library used to represent of a binary file as a tree of Python objects.</summary>
+    <description lang="en">Hachoir is a Python library used to represent of a binary file as a tree of Python objects. Each object has a type, a value, an address, etc. The goal is to be able to know the meaning of each bit in a file.</description>
+    <disclaimer lang="en">Code taken from https://pypi.python.org/pypi/hachoir-core/</disclaimer>
+    <license>GNU GPL v2</license>
+    <website>http://bitbucket.org/haypo/hachoir/wiki/hachoir-core</website>
+    <source>https://pypi.python.org/pypi/hachoir-core/</source>
+  </extension>
+</addon>

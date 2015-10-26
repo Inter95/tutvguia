@@ -1,0 +1,14 @@
+Version 2.1.12
+Kickass
+
+Version 2.1.7
+General
+
+Version 0.0.3
+Standard EZTV and YIFY
+
+Version 0.0.2
+Kickass provider added
+
+Version 0.0.1
+First version

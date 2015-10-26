@@ -1,0 +1,30 @@
+**********************************
+ Current Providers Hosted on Repo
+**********************************
+Alt-Torrent-MC (Spanish) - author: mancuniancol 
+ArenaBG-MC - author: mancuniancol 
+btdigg - author: gomezvd
+CPasBien (French) - author: Sheppounet
+Cpasbien-MC (French) - author: mancuniancol 
+Demonoid - author: prilly 
+Dixatope-MC (Spanish) - author: mancuniancol 
+EliteTorrent-MC (Spanish) - author: mancuniancol 
+ExtraTorrent-MC - author: mancuniancol
+EZTV - author: platbr 
+EZTV-MC - author: mancuniancol
+H33T-MC - author: mancuniancol  
+KickAssTorrents - author: cpkiller
+KickAssTorrents (Multi Language) - author: gomezvd
+KickAss-MC - author: mancuniancol 
+KickAss Anime-MC - author: mancuniancol
+MagnetDL-MC - author: mancuniancol 
+Newpct (Spanish) - author: gomezvd
+Nyaa-MC - author: mancuniancol
+OMG (French) - author: Sheppounet
+Rutor - author: prilly 
+TankaFetast-MC (Swedish) - author: mancuniancol 
+ThePirateBay-MC - author: mancuniancol  
+Torrenthound-MC - author: mancuniancol 
+TPB Anime-MC - author: mancuniancol 
+Yify - author: platbr
+YIFY-MC - author: mancuniancol 
