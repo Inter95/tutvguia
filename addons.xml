@@ -516,7 +516,7 @@ provider-name="Roman V. M.">
 	<extension point="xbmc.addon.repository" name="Tu TVGuia Repo">
         <info>https://raw.githubusercontent.com/Inter95/repository.tvguia/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Inter95/repository.tvguia/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/Inter95/repository.tvguia/blob/master/repository.tutvguia-1.0.1.zip?raw=true</datadir>
+        <datadir zip="true">https://github.com/Inter95/repository.tvguia</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositorio para Tu TVGuia</summary>
