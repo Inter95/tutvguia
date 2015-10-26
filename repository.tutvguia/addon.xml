@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tutvguia" name="[COLOR red]Tu TVGuia[/COLOR] Repo" version="1.0.1" provider-name="Inter95 Coding-Mancuniancol">
+<addon id="repository.tutvguia" name="Tu [COLOR red]TVGuia[/COLOR] Repo" version="1.0.1" provider-name="Inter95 Coding-Mancuniancol">
 	<extension point="xbmc.addon.repository" name="Tu TVGuia Repo">	   
         <info>http://tutvguia.ga/addons.xml</info>
         <checksum>http://tutvguia.ga/addons.xml.md5</checksum>
